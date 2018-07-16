@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Shawn_CNN_C__.dir/main.cpp.o  -o Shawn_CNN_C__ 
